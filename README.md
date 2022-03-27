@@ -1,4 +1,4 @@
-### Hi there 👋
+# Hello world! I'm Kibeom 👋
 
 <!--
 **amazing86400/amazing86400** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
