@@ -4,6 +4,7 @@ I :heartpulse: Python and anything **challenge**:fire:
 <br>
 
 ## :seedling: My skills
+- Publishing
 - Data Science
 - Machine Learning
 - Deep Learning
