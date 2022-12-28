@@ -1,14 +1,16 @@
 # Hello world!👋  I'm Kibeom:boom:
-I :heartpulse: Python and anything **challenge**:fire:
+I :heartpulse: Swift and anything **challenge**:fire:
 
 <br>
 
 ## :seedling: My skills
 - Publishing
-- Data Science
-- Machine Learning
-- Deep Learning
-- Image Processing
+  - Web
+- Adtech
+  - Google Analytics
+  - Firebase
+  - Google Tag Manager
+  - Optimize
 
 <br>
 
