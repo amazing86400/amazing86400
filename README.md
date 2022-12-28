@@ -1,5 +1,5 @@
 # Hello world!👋  I'm Kibeom:boom:
-I :heartpulse: Swift and anything **challenge**:fire:
+I :heartpulse: iOS and anything **challenge**:fire:
 
 <br>
 
@@ -7,15 +7,15 @@ I :heartpulse: Swift and anything **challenge**:fire:
 - Publishing
   - Web
 - Adtech
-  - Google Analytics
   - Firebase
+  - Google Analytics
   - Google Tag Manager
-  - Optimize
+  - Google Optimize
 
 <br>
 
 ## :earth_asia: Programming Languages
-<img src="https://img.shields.io/badge/PYTHON-000080?style=for-the-badge&logo=PYTHON&logoColor=white"> <img src="https://img.shields.io/badge/html-E34F26?style=for-the-badge&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white"> <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white"> <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
+<img src="https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=Swift&logoColor=white"> <img src="https://img.shields.io/badge/PYTHON-000080?style=for-the-badge&logo=PYTHON&logoColor=white"> <img src="https://img.shields.io/badge/html-E34F26?style=for-the-badge&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white"> <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white"> <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
 
 <br><br>
 
