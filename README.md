@@ -4,8 +4,9 @@ I :heartpulse: iOS and anything **challenge**:fire:
 <br>
 
 ## :seedling: My skills
-- Publishing
-  - Web
+- Development
+  - iOS
+  - WEB
 - Adtech
   - Firebase
   - Google Analytics
