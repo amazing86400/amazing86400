@@ -8,7 +8,8 @@ I :heartpulse: iOS and anything **challenge**:fire:
   - iOS
   - WEB
 - Adtech
-  - Firebase
+  - Firebase Analytics
+  - Firebase DynamicLinks
   - Google Analytics
   - Google Tag Manager
   - Google Optimize
