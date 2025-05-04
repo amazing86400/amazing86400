@@ -1,7 +1,7 @@
 # 👋 Hello! I'm Kibeom 💥
 I ❤️ a good challenge — and I like solving it step by step with curiosity and logic.
 
-<br><br>
+<br>
 
 ## 🔧 Tech Stack
 **Tracking & Data**  
@@ -29,3 +29,5 @@ I ❤️ a good challenge — and I like solving it step by step with curiosity 
 - Analytics Implementation & Consent Mode Support
 - A/B Testing & Web Personalization Optimization
 - Cross-Functional Communication & Technical Documentation
+
+<br>
