@@ -1,40 +1,31 @@
-# Hello world!👋  I'm Kibeom:boom:
-I :heartpulse: iOS and anything **challenge**:fire:
-
-<br>
-
-## :seedling: My skills
-- Development
-  - iOS
-  - WEB
-- Adtech
-  - Firebase Analytics
-  - Firebase DynamicLinks
-  - Google Analytics
-  - Google Tag Manager
-  - Google Optimize
-
-<br>
-
-## :earth_asia: Programming Languages
-<img src="https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=Swift&logoColor=white"> <img src="https://img.shields.io/badge/PYTHON-000080?style=for-the-badge&logo=PYTHON&logoColor=white"> <img src="https://img.shields.io/badge/html-E34F26?style=for-the-badge&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white"> <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white"> <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
+# 👋 Hello! I'm Kibeom 💥
+I ❤️ a good challenge — and I like solving it step by step with curiosity and logic.
 
 <br><br>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=amazing86400)](https://github.com/amazing86400/github-readme-stats)
+## 🔧 Tech Stack
+**Tracking & Data**  
+- Google Analytics 4 (GA4), Google Tag Manager (GTM) : 사용자 행동 데이터 수집 및 이벤트 구조 설계 
+- Firebase SDK, Appsflyer SDK : 앱 이벤트 연동 및 전환 추적
+- BigQuery : SQL 기반 사용자 분석 및 데이터 검증
+- VWO : A/B 테스트 및 웹 개인화 실험 설계
 
+**Frontend & Scripting**
+- HTML / CSS / JavaScript
+- React
+- Swift / Objective-C
+- Python
 
-<!--
-**amazing86400/amazing86400** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Debugging & Tools**  
+- GA4 DebugView, Chrome DevTools, Charles Proxy : 이벤트 추적, 쿠키 및 Client ID 검증
+- 🔗 [Data Inspector](https://github.com/amazing86400/Project_DataInspector) : 실시간 앱 데이터 검수 도구
+- 🔗 [검수고](https://github.com/amazing86400/Project_Crome_Gumsugo) : 실시간 웹 데이터 검수 도구
 
-Here are some ideas to get you started:
+<br><br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📌 Core Focus Areas
+- User Behavior & Marketing Data Engineering 
+- Data Collection & Governance Implementation
+- Analytics Implementation & Consent Mode Support
+- A/B Testing & Web Personalization Optimization
+- Cross-Functional Communication & Technical Documentation
